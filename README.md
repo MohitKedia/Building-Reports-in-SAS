@@ -9,8 +9,9 @@ Data files to be used :
 OLYMPICS.xls: Pipeline deals for Broadcasting in AIR
 OLYMPICS_Digi.xls: Pipeline deals for Online Banners
 
+Both the files are attached in the repository along with the SAS Code and Output file in pdf format.
 
-Techniques to be used : 
+Techniques used for report making: 
 
 • Data importing
 • Data Manipulation using functions, renaming the columns
