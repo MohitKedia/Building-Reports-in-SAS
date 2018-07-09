@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-in-SAS
+# Report making-in-SAS
 
 Business Case :
 One of the major broadcasting media company in US has won the bid to broadcast the 2012-Olympics event. For this event, the company would like to sell their ad-slots & online ad-banners, in much advance. The management has instructed the sales representatives (Champions) to
